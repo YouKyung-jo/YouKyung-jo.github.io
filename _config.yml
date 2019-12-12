@@ -20,7 +20,7 @@ title                    : "Be maker"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "조유경의 블로그"
-description              : "내가 무엇을 꿈꾸든"
+description              : "내가 무엇을 꿈꾸든 이거 왜 수정 안되는거냐?"
 url                      : "https://https://youkyung-jo.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
